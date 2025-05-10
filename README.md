@@ -82,8 +82,3 @@ Spaceship/
 ![Main Menu](https://zym3lg5yyjfv6n5abuoqznp2kptw4hfvscw5qxq2n65xqtevrenq.arweave.net/zhm1m7jCS183oA0dDLX6U-duHLWQrdheGm-7eEyViRs)
 ![In-Game](https://cxwdum4j57oratztmm6cdmpwnk4ujrvuyoirar7v35xaaw3justq.arweave.net/Few6M4nv3RBPM2M8IbH2arlExrTDkRBH9d9uAFtppKc)
 ![Scores](https://zqld65g4b75pqi2h73pdgiryvjpwhzdoqyeubery3e56woyso2aa.arweave.net/zBY_dNwP-vgjR_7eMyI4ql9j5G6GCUCSONk76zsSdoA)
-
----
-<div align="center">
-Star this project if you enjoyed it!
-</div>
