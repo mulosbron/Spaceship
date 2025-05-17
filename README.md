@@ -4,12 +4,7 @@
 A 2D space-themed arcade game where players control a spaceship to destroy incoming meteors. Survive as long as possible while earning points and progressing through increasingly difficult levels.
 
 ## Purpose
-To create an engaging space shooter game using Python and Pygame, demonstrating classic arcade game mechanics with modern object-oriented programming. The game showcases player movement, collision detection, scoring system, and level progression.
-
-### Key Objectives:
-- Implement fast-paced asteroid shooter gameplay
-- Create progressive difficulty system with different meteor types  
-- Build CSV-based scoring system for tracking progress
+To create a space shooter game using Python and Pygame, demonstrating classic arcade game mechanics with modern object-oriented programming. The game showcases player movement, collision detection, scoring system, and level progression.
 
 ## Scope
 
@@ -17,7 +12,6 @@ To create an engaging space shooter game using Python and Pygame, demonstrating 
 - **Python**: 3.x
 - **Pygame**: Game development framework
 - **CSV**: Score data storage
-- **random**: Procedural meteor spawning
 
 ### Game Features:
 - 8-directional spaceship movement with rotation sprites
@@ -68,14 +62,8 @@ Spaceship/
 ### Controls:
 - **Arrow Keys**: Move spaceship in 8 directions
 - **SPACE**: Shoot (fires from both sides)
-- **ENTER**: Pause/unpause, menu navigation
+- **ENTER**: Restart game after collision
 - **Mouse**: Menu interaction
-
-### Development Process:
-1. **Planning**: Arcade game mechanics analysis
-2. **Design**: Sprite-based class architecture
-3. **Development**: Pygame event loops and collision systems
-4. **Testing**: Game balance and performance optimization
 
 ## Screenshots
 
